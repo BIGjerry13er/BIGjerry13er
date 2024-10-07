@@ -2,9 +2,9 @@
 - 👀 I’m interested in JavaScript developer manager
 - 🌱 I’m currently learning JavaScript and web development
 - 💞️ I’m looking to collaborate on other projects and helping people when i can code
-- 📫 How to reach me @BIGjerry13er gethub
+- 📫 How to reach me: Jeremyah.jaramillo.coding@gmail.com
 - 😄 Pronouns: He Hem
-- ⚡ Fun fact: im going to be a coder for shur 
+- ⚡ Fun fact: 
 
 <!---
 BIGjerry13er/BIGjerry13er is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
